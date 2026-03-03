@@ -6,4 +6,4 @@ IT Professional - Morocco
 Technical Goals
 Master Git workflow
 Build backend applications 
-problem-solving
+problemsolving
